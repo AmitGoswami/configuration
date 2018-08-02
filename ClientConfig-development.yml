@@ -9,5 +9,5 @@ spring:
           clone-on-start: true
 security:
   user:
-    name: root
+    name: root_updated
     password: s3cr3t
